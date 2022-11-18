@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>8bdb9c4f-c741-49f9-9ca7-b5f263395574</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="semana-16-2.sln" />
+    <None Include="semana-16-2\semana-16-2.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="semana-16-2\bin\Debug\netcoreapp3.1\" />
+    <Folder Include="semana-16-2\bin\Release\netcoreapp3.1\" />
+  </ItemGroup>
+
+</Project>
